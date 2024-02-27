@@ -247,7 +247,7 @@ https://bvsat02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_DASH/Discov
 http://190.11.130.46/mnp/natgeohd/output.mpd
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/LoveNature_Logo_Dark.png" group-title="Culturales" , Love Nature
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60995eb136c72d002da7bbcb.m3u8
+http://186.148.163.18:8000/play/a04s/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="Culturales", Animal Planet
 https://bvsat02.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
