@@ -381,8 +381,26 @@ https://linear-556.frequency.stream/mt/studio/556/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS
 https://linear-557.frequency.stream/mt/studio/557/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", GRANDES PAREJAS
+https://linear-558.frequency.stream/mt/studio/558/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", CINE CLUB
+https://linear-559.frequency.stream/mt/studio/559/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", JAJAJA
+https://linear-560.frequency.stream/mt/studio/560/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS DE ORO
+https://linear-561.frequency.stream/mt/studio/561/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS
 https://linear-565.frequency.stream/mt/studio/565/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS EN FAMILIA
+https://linear-566.frequency.stream/mt/studio/566/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS EN FAMILIA
+https://linear-567.frequency.stream/mt/studio/567/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS
 https://linear-568.frequency.stream/mt/studio/568/hls/master/playlist.m3u8
@@ -390,8 +408,19 @@ https://linear-568.frequency.stream/mt/studio/568/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b520dadf627aa84bbf2500/67ccdc39989cef73134b31df1eb03c0f?tr=q-80&w=750" group-title="ViX",Lo Mejor Liga MX
 https://linear-570.frequency.stream/mt/studio/570/hls/master/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", 100 MEXICANOS DICEN
 https://linear-573.frequency.stream/mt/studio/573/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS
+https://linear-574.frequency.stream/mt/studio/574/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", LA FEA MAS BELLA
+https://linear-575.frequency.stream/mt/studio/575/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS
+https://linear-576.frequency.stream/mt/studio/576/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS
 https://linear-577.frequency.stream/mt/studio/577/hls/master/playlist.m3u8
@@ -404,6 +433,9 @@ https://linear-604.frequency.stream/mt/studio/604/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", CANAL VIX
 https://linear-605.frequency.stream/mt/studio/605/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", CANAL VIX
+https://linear-660.frequency.stream/mt/studio/660/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", FUTBOL 32
 https://linear-668.frequency.stream/mt/studio/668/hls/master/playlist.m3u8
@@ -422,3 +454,9 @@ https://linear-678.frequency.stream/mt/studio/678/hls/master/playlist.m3u8"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", FUTBOL 37
 https://linear-679.frequency.stream/mt/studio/679/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS
+https://linear-734.frequency.stream/mt/studio/734/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS
+https://linear-735.frequency.stream/mt/studio/735/hls/master/playlist.m3u8
