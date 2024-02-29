@@ -156,7 +156,7 @@ http://190.11.130.46/mnp/babytv/output.mpd
 http://131.161.53.2:8000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4On8gxcQzbBZU0e3km6KXH/4334e9a223f6e57e6f91cbbe96fd90a0/Canal_-_DiscoveryID.png?fm=webp&q=80" group-title="Entretenimiento" , Investigation Discovery
-https://bvsat02.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
+https://itcplay.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/27qdyEGErOYlZ0ZIJ9NzCg/aaa55232741d8e6cd434c8e96309feaf/45_FXHD.png?fm=webp&q=80" group-title="Entretenimiento" ,FX HD
 http://190.11.130.46/mnp/fx/output.mpd
@@ -311,7 +311,7 @@ http://190.11.130.46/mnp/maschic/output.mpd
 http://138.186.20.13:23200/play/a0bm
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2VZSYkkMoux2WhaqexQF9U/8bcaa85e77c536532b15dd6e18879cc0/86_AnimalPlanet.png?fm=webp&q=80" group-title="Culturales" , Animal Planet 
-https://bvsat02.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
+https://itcplay.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2jxD6xBgfDYuGl4ObVKjCA/713c91824c8b6ead6a48a9faff844441/87_Discovery.png?fm=webp&q=80" group-title="Culturales" , Discovery 
 http://190.11.130.46/mnp/discovery/output.mpd
