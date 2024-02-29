@@ -233,8 +233,17 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", BANDAMAX, BITME
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", Televisa Guadalajara
+https://linear-402.frequency.stream/mt/studio/402/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", Televisa Monterrey
+https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", De pelicula
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", Distrito Comedia
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",Golden 
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
@@ -265,6 +274,16 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb79a9e887494aeb7b53d7/e22297a85b98822efbb3ad61ec2ae898?tr=q-80&w=1920" group-title="ViX",Las Estrellas Latam
 https://linear-416.frequency.stream/mt/studio/416/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", Telehit
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", Telehit Musica
+https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", Telehit Musica Plus
+https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", UNICABLE
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
@@ -344,13 +363,29 @@ https://linear-491.frequency.stream/mt/studio/491/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", VEVO LATINO
 https://linear-494.frequency.stream/mt/studio/494/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", PEQUEÑOS GIGANTES
+#https://linear-533.frequency.stream/mt/studio/533/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb79a9e887494aeb7b53d7/e22297a85b98822efbb3ad61ec2ae898?tr=q-80&w=1920" group-title="ViX",Las Estrellas
 https://linear-553.frequency.stream/mt/studio/553/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", TIGO SPORTS
 https://linear-556.frequency.stream/mt/studio/556/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS
+https://linear-557.frequency.stream/mt/studio/557/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS
+https://linear-565.frequency.stream/mt/studio/565/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS
+https://linear-568.frequency.stream/mt/studio/568/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", 100 MEXICANOS DICEN
+https://linear-573.frequency.stream/mt/studio/573/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS
+https://linear-577.frequency.stream/mt/studio/577/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX", NOVELAS
+https://linear-580.frequency.stream/mt/studio/580/hls/master/playlist.m3u8
