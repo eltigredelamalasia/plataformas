@@ -261,7 +261,7 @@ http://190.11.130.46/mnp/paramount/output.mpd
 http://190.11.130.46/mnp/lifetime/output.mpd
 
 #EXTINF:-1 tvg-id="Europa.Europa.(EE).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/129-EuropaEuropa.png" group-title="Entretenimiento", Europa Europa
-http://190.11.130.46/mnp/europa/output.mpd
+http://190.11.130.46/mnp/europa/output.mpd 
 
 #EXTINF:-1 tvg-id="FilmandArts.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="Entretenimiento", Film & Arts HD
 http://190.11.130.46/mnp/filmsarts/output.mpd
