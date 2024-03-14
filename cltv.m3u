@@ -100,7 +100,7 @@ http://190.11.130.46/mnp/fox_sport2/output.mpd
 http://190.11.130.46/mnp/fox_sport3/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/29KPKoeTvsx3PuHk5maUui/2fb421fbd5c8059d6575330ee6ec7d85/20_DeporteTV.png?fm=webp&q=80" group-title="Deportes" , DEPORTV
-https://ythlsgo.onrender.com/channel/UCSmh3DFxBwFurMttT60PQ1g.m3u8
+http://190.11.130.46/mnp/dxtv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5zbuGK96V1FppjDgF7JpdB/1672ccdba4ca5ac23f3b48537b1af595/21_Garage.png?fm=webp&q=80" group-title="Deportes" , GARAGE TV
 https://stream1.sersat.com/hls/garagetv.m3u8
