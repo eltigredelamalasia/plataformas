@@ -363,7 +363,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2F8MPtMgLmmXNQpDdups4e/337ac83dd1772ba3786a83a00ed32659/104_RAI.png?fm=webp&q=80" group-title="Internacional" , RAI
-https://vdnisha1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1800/chunklist.m3u8
+https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/rainews_1800/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/4Iu27K6KHoUbZhlRlvN48o/10b7bd6b6ff8290595b9b685210fef5e/519-UNIFE-Religiosa.png?fm=webp&q=80" group-title="Religioso" , Unife
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8?p=79&s=1694000298&e=1694000418&h=39bea3dca2e5ba6c6e0fcda0b14067b8
