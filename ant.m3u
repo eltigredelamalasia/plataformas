@@ -144,7 +144,7 @@ http://190.11.130.46/mnp/cnn/output.mpd
 http://131.161.53.2:8000/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-logo="hhttps://pbs.twimg.com/profile_images/1475448542227570690/5u-d7ggL_400x400.jpg" group-title="Internacionales" , RAI NEWS
-https://vdnisha1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1800/chunklist.m3u8
+https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/rainews_1800/chunklist.m3u8
 
 
 
